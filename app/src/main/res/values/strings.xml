@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bar Volume</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="calculate">Calculate</string>
+    <string name="hasil">Hasil</string>
+    <string name="fieldRequired">This field is required</string>
+</resources>
